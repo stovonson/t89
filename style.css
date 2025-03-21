@@ -93,7 +93,6 @@ html {
     width: 95%;
     text-decoration: none;
     color: inherit;
-    cursor: pointer;
     z-index: 1;
     transition: color 0.3s ease-in-out;
     height: auto;
