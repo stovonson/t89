@@ -29,7 +29,7 @@ body {
 
 a {
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 h1 {
@@ -63,6 +63,9 @@ h1 {
   display: flex;
   flex-direction: row;
   user-select: none;
+  a {
+    text-decoration: none;
+  }
 }
 
 @media (max-width: 600px) {
